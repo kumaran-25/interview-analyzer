@@ -1,0 +1,8 @@
+streamlit
+moviepy
+SpeechRecognition
+textblob
+deepface
+opencv-python-headless
+tf-keras
+tensorflow
