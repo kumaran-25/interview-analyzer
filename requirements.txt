@@ -5,4 +5,4 @@ textblob
 deepface
 opencv-python-headless
 tf-keras
-tensorflow
+tensorflow>=2.15.0
